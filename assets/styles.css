@@ -85,8 +85,15 @@ button {
 }
 
 .sedans button {
-  background: var(--very-light-gray);
   color: var(--bright-orange);
+}
+
+.suv button {
+  color: var(--dark-cyan);
+}
+
+.luxury button {
+  color: var(--very-dark-cyan);
 }
 
 footer { 
