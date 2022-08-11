@@ -105,11 +105,20 @@ button:active {
   transform: scale(0.9);
 }
 
-footer { 
-  font-size: 11px; 
+footer {
+  line-height: 20px; 
+  margin: 0 auto;
+  color: #999;
+  font-size: 12px; 
   text-align: center; 
+  margin-top: 5px;
 }
 
 footer a { 
-  color: hsl(228, 45%, 44%); 
+  text-decoration: none;
+  color: #555; 
+}
+
+footer a:hover {
+  color: #000;
 }
