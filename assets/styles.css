@@ -12,6 +12,15 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Lexend Deca", sans-serif;
+  background-color: var(--very-light-gray);
+  font-size: 15px;
+  overflow: hidden;
+  height: calc(100vh - 1px);
+  color: var(--transparent-white);
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
