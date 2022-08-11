@@ -46,6 +46,11 @@ article.suv {
   background-color: var(--dark-cyan);
 }
 
+article.luxury {
+  background-color: var(--very-dark-cyan);
+  border-radius: 7px 0 0 7px;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
