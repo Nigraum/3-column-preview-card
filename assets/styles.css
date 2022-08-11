@@ -96,6 +96,15 @@ button {
   color: var(--very-dark-cyan);
 }
 
+button:hover {
+  background-color: transparent;
+  color: var(--very-light-gray);
+}
+
+button:active {
+  transform: scale(0.9);
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
