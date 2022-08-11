@@ -37,7 +37,7 @@ article {
   position: relative;
 }
 
-article .sedan {
+article.sedans {
   background-color: var(--bright-orange);
   border-radius: 7px 0 0 7px;
 }
