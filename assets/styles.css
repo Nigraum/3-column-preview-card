@@ -30,6 +30,13 @@ main {
   flex-wrap: wrap;
 }
 
+article {
+  max-width: 278px;
+  height: 450px;
+  padding: 42px;
+  position: relative;
+}
+
 
 
 footer { 
