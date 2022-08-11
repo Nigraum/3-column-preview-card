@@ -51,6 +51,10 @@ article.luxury {
   border-radius: 7px 0 0 7px;
 }
 
+img {
+  margin-bottom: 2.25rem;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
