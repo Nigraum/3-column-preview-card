@@ -84,6 +84,11 @@ button {
   bottom: 42px;
 }
 
+.sedans button {
+  background: var(--very-light-gray);
+  color: var(--bright-orange);
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
