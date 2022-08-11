@@ -6,6 +6,12 @@
   --very-light-gray: hsl(0, 0%, 95%);
 }
 
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
