@@ -17,7 +17,7 @@ body {
   background-color: var(--very-light-gray);
   font-size: 15px;
   overflow: hidden;
-  height: calc(100vh - 1px);
+  height: 100vh;
   color: var(--transparent-white);
 }
 
@@ -121,4 +121,13 @@ footer a {
 
 footer a:hover {
   color: #000;
+}
+
+@media only screen and (max-width: 844px) {
+  body {
+    display: flex;
+    width: 100%;
+    overflow: scroll;
+    flex-wrap: wrap;
+  }
 }
