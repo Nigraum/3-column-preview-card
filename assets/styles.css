@@ -42,7 +42,9 @@ article.sedans {
   border-radius: 7px 0 0 7px;
 }
 
-
+article.suv {
+  background-color: var(--dark-cyan);
+}
 
 footer { 
   font-size: 11px; 
